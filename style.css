@@ -59,9 +59,7 @@ ul {
     padding: 0;
 }
 
-.line {
-    border: 7px dashed #80808094;
-}
+
 
 .main_header {
     display: flex;
